@@ -39,7 +39,7 @@ pub fn my_awesome_function() -> String {
 ### Install the script
 
 ```sh
-deno install --allow-read --allow-write --allow-run -n deno-build-wasm https://raw.githubusercontent.com/meszarosdezso/deno-build-wasm/master/mod.ts
+deno install --allow-read --allow-write --allow-run -n deno-build-wasm https://deno.land/x/deno_build_wasm/mod.ts
 ```
 
 ### Build your functions
